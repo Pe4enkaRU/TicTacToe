@@ -13,7 +13,6 @@ suka.prepend(dav)
 
 for (let i = 0; i < xaxa.length; i++) {
 	xaxa[i].onclick = function(){
-
 }
 }
 
